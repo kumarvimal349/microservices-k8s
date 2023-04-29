@@ -1,0 +1,1 @@
+docker tag taskmaster-app:latest kumarvimal349/taskmaster-app:latest
