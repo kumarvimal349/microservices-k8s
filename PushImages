@@ -1,1 +1,2 @@
-docker tag taskmaster-app:latest kumarvimal349/taskmaster-app:latest
+docker tag tspringboot-crud-app:latest kumarvimal349/springboot-crud-app:latest
+docker push  kumarvimal349/springboot-crud-app:latest
