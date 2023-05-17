@@ -1,2 +1,0 @@
-docker tag tspringboot-crud-app:latest kumarvimal349/springboot-crud-app:latest
-docker push  kumarvimal349/springboot-crud-app:latest
